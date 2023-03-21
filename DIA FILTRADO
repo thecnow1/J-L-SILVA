@@ -1,3 +1,4 @@
+
 numeroUasg: 120637,
 numero: 1,
 nomeUasg: BASE AÉREA DE BOAVISTA,
@@ -23,20 +24,11 @@ numero: 1,
 nomeUasg: ASSOCIAÇAO A.E.E.ESTEFANIO T.CHAGAS/MATEIROS,
 objetoCompra: Aquisição de gêneros alimentícios ,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 80021,
-numero: 2,
-nomeUasg: TRIBUNAL REGIONAL DO TRABALHO DA 21A. REGIAO,
-objetoCompra: Contratação de empresa especializada em execução de serviços de filmagem e transmissão via canal YouTube do TRT21, incluindo equipamentos e mão de obra durante evento,
------------------------------------------------------------------------------------------------------------
+
 numeroUasg: 155009,
 numero: 2,
 nomeUasg: HOSPITAL UNIVERSITÁRIO DE BRASÍLIA,
 objetoCompra: Aquisição de EQUIPO ESPECIAL DE TRANSFERÊNCIA GRAVITACIONAL COM ENTRADA DE AR COMPATÍVEL COM BOLSA EM EVA, DUAS OU TRÊS VIAS, MATERIAL PVC CRISTAL, TIPO PINÇA CORTA FLUXO, TIPO CONECTOR LUER MACHO E FÊMEA COM TAMPA, TIPO FILTRO CINJETOR DE SOLUÇÕES, CARACTERÍSTICAS ADICIONAIS PARA PREPARO DE NPT.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 160444,
-numero: 2,
-nomeUasg: COMANDO 14 BRIGADA INFANTARIA MOTORIZADA,
-objetoCompra: Aquisição de insumos para a manutenção das motocicletas do 14º Pelotão de Polícia do Exército da  14ª Brigada de Infantaria Motorizada.,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 343014,
 numero: 2,
@@ -48,20 +40,11 @@ numero: 2,
 nomeUasg: PMSP - PROCURADORIA GERAL DO MUNICÍPIO,
 objetoCompra: AQUISIÇÃO DE ADOÇANTE LÍQUIDO E CHÁS DIVERSOS – PRODUTOS ALIMENTÍCIOS – Para atendimento da demanda das unidades da PGMSP,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 158157,
+numeroUasg: 158157#
 numero: 3,
 nomeUasg: INST.FED.DE EDUC.,CIENC.E TEC.DO R.DE JANEIRO,
 objetoCompra: Aquisição de toner para impressora,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 160185,
-numero: 3,
-nomeUasg: 14 BATALHAO LOGISTICO,
-objetoCompra: Aquisição de cilindros de gás liquefeito de petróleo.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 160296,
-numero: 3,
-nomeUasg: COMANDO BRIGADA INFANTARIA PARAQUEDISTA/RJ,
-objetoCompra: Aquisição de ração canina visando atender ao 25º BI Pqdt, 8º GAC Pqdt e 36º Pel PE Pqdt.,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 925125,
 numero: 3,
@@ -73,7 +56,7 @@ numero: 3,
 nomeUasg: CONS REG DOS REP COMERCIAIS DO E DO CEARÁ,
 objetoCompra: Aquisição de materiais de expediente e limpeza, com entrega única, conforme especificado no Termo de Referência,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 153038,
+numeroUasg: 153038#,
 numero: 4,
 nomeUasg: UNIVERSIDADE FEDERAL DA BAHIA-UF/BA,
 objetoCompra: Aquisição de caixas plásticas organizadoras de 15L e 61L pra atender aos Museus de Arqueologia e Etnologia e de Arte Sacra da Universidade Federal da Bahia respectivamente.,
@@ -87,11 +70,6 @@ numeroUasg: 160070,
 numero: 4,
 nomeUasg: DEPARTAMENTO GERAL DE PESSOAL-MEX/DF,
 objetoCompra: Aquisição de toners e cilindros de imagem para impressora para atender a demanda do Departamento-Geral do Pessoal.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 170109,
-numero: 4,
-nomeUasg: DRF-DELEGACIA DA RECEITA FEDERAL C.GRANDE/MS,
-objetoCompra: Aquisição de materiais de limpeza essenciais para atender as Alfândegas da Receita Federal em Corumbá/MS, Ponta Porã/MS e Mundo Novo/MS, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 170109,
 numero: 4,
@@ -118,36 +96,17 @@ numero: 4,
 nomeUasg: CONSELHO DE ARQUITETURA E URBANISMO SP,
 objetoCompra: Aquisição de licenciamento de solução integrada NGFW (Next Generation Firewall) composta por Hardware e Software UTM (Unified Threat Management).  ,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 80016,
-numero: 5,
-nomeUasg: TRIBUNAL REGIONAL DO TRABALHO DA 10A.REGIAO,
-objetoCompra: Contratação de empresa especializada para o fornecimento contínuo de carimbos. ,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 90003,
+numeroUasg: 90003#
 numero: 5,
 nomeUasg: JUSTICA FEDERAL DE PRIMEIRO GRAU - PA,
 objetoCompra: Contratação de empresas para fornecimento de copos descartáveis para esta Seção Judiciária do Pará e Subseção Judiciária de Castanhal, durante o exercício de 2023.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 160283,
+numeroUasg: 160283#,
 numero: 5,
 nomeUasg: PREFEITURA MILITAR DA ZONA SUL/RJ,
 objetoCompra: Aquisição de Material Permanente.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 200121,
-numero: 5,
-nomeUasg: SUPERINTENDENCIA REG. POL. RODV. FEDERAL-GO,
-objetoCompra: Contratação de empresa especializada na prestação de serviços médico veterinário contínuos, sem dedicação exclusiva de mão de obra, sob demanda, incluindo o fornecimento de todos os materiais, insumos e medicamentos necessários a sua perfeita execução.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 389342,
-numero: 5,
-nomeUasg: CONSELHO REGIONAL DE ENFERMAGEM DE SERGIPE,
-objetoCompra: Prestação de serviço especializado para manutenção preventiva e corretiva e instalação em subestação, com fornecimento de peças para transformador de potencial (225 kva), para atender a demanda da nova sede do Conselho Regional de Enfermagem de Sergipe, localizado à Rua Duque de Caxias 389 (esquina com a rua Vila Cristina), bairro São José – Aracaju/SE.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 785106,
-numero: 5,
-nomeUasg: NAVIO-PATRULHA BENEVENTE,
-objetoCompra: Serviço de substituição, com fornecimento de material, de tubulação de cobre utilizada no sistema de água quente do Navio-Patrulha Benevente,
------------------------------------------------------------------------------------------------------------
+
 numeroUasg: 791904,
 numero: 5,
 nomeUasg: CENTRO DE MANUTENCAO DE EMBARCACOES MIUDAS/RJ,
@@ -162,11 +121,7 @@ numeroUasg: 160362,
 numero: 6,
 nomeUasg: 3 BATALHAO LOGISTICO/RS,
 objetoCompra: Aquisição de pó para recarga de toner,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 389200,
-numero: 6,
-nomeUasg: CONSELHO REG. DE MEDICINA VETERINARIA DO ES,
-objetoCompra: Contratação de empresa especializada na realização de limpeza e manutenção de modo preventivo (bimestralmente), e corretiva sob demanda do CRMV-ES de ar condicionado, com mão de obra para substituição/reposição de peças, componentes, acessórios e recarga de gás refrigerante, conforme quantitativos, prazos e especificações contidas no termo de referência.,
+
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 785106,
 numero: 6,
@@ -177,11 +132,7 @@ numeroUasg: 153038,
 numero: 7,
 nomeUasg: UNIVERSIDADE FEDERAL DA BAHIA-UF/BA,
 objetoCompra: Aquisição de concreto usinado a fim de implementar pista para corrida/caminhada e espaço para atividades livres na área recreativa do Instituo Multidisciplinar em Saúde do Campus Anísio Teixeira -  IMS/CAT da Universidade Federal da Bahia.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 160222,
-numero: 7,
-nomeUasg: 5. BATALHAO DE SUPRIMENTO,
-objetoCompra: Contratação de serviço de aferição e manutenção das balanças do Depósito dos gêneros Classe I.,
+
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 160278,
 numero: 7,
@@ -193,30 +144,16 @@ numero: 7,
 nomeUasg: PMSP - SUBPREFEITURA ITAQUERA,
 objetoCompra: Claviculários 300 Chaves (porta-chaves),
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 925465,
-numero: 7,
-nomeUasg: TRIBUNAL DE CONTAS DO MUNICIPIO DO RJ,
-objetoCompra: Aquisição de materiais elétricos, a serem fornecidos conforme demanda do Tribunal de Contas do Município do Rio de Janeiro – TCMRio, UASG 925465, durante o exercício de 2023, de acordo com as condições, quantidades e exigências estabelecidas no Aviso de Contratação Direta e seus Anexos.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 926367,
+numeroUasg: 926367#,
 numero: 7,
 nomeUasg: PMSP - SECRETARIA MUNICIPAL DE LICENCIAMENTO,
 objetoCompra: Aquisição de 20 (vinte) Licenças AUTOCAD 2023 LT durante um ano, para atender a demanda da Secretaria Municipal de Urbanismo e Licenciamento do Município de São Paulo – SMUL.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 926523,
-numero: 7,
-nomeUasg: SEC DE EST DA AGR, ABASTECIMENTO E DESN RURAL,
-objetoCompra: Contratação de serviço de manutenção corretiva dos aparelho de Scanner, com troca de peças e/ou componentes, compreendendo a retirada, a manutenção e a posterior devolução, conforme condições discriminadas neste termo.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 158972,
+numeroUasg: 158972#,
 numero: 8,
 nomeUasg: CAMPUS ALTA FLORESTA IFECT MT,
 objetoCompra: Aquisição de reagentes e materiais para uso nos laboratórios de Química do Campus- Alta Floresta.    ,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 160056,
-numero: 8,
-nomeUasg: 2º CENTRO DE GEOINFORMAÇÃO,
-objetoCompra: Dispensa de licitação para manutenção em máquina de lavar louças e troca de elemento filtrante do filtro central.,
+
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 925201,
 numero: 8,
@@ -233,12 +170,12 @@ numero: 9,
 nomeUasg: GRUPAMENTO DE APOIO DE SÃO PAULO,
 objetoCompra: Serviço leitura de dosimetria radiológica pessoal, para monitoramento individual (externa) de doses absorvidas durante a jornada de trabalho, por profissionais que trabalham rotineiramente com equipamentos de radio-diagnósticos.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 158419,
+numeroUasg: 158419#,
 numero: 9,
 nomeUasg: IFES - CAMPUS ARACRUZ,
 objetoCompra: Aquisição de forno de micro-ondas e refrigeradores a fim de atender a necessidade do Instituto Federal de Educação Ciência e Tecnologia – Ifes campus Aracruz, conforme condições, quantidades e exigências estabelecidas neste instrumento e seus anexos.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 160056,
+numeroUasg: 160056#
 numero: 9,
 nomeUasg: 2º CENTRO DE GEOINFORMAÇÃO,
 objetoCompra: Dispensa de licitação para aquisição de cadeira de escritório.,
@@ -248,25 +185,16 @@ numero: 9,
 nomeUasg: 57 BATALHAO DE INFANTARIA MOTORIZADO(ES)-RJ,
 objetoCompra: Aquisição de material de alvenaria/obra para manutenção do corpo da guarda para atender as necessidades de manutenção das instalações do 57° Batalhão de Infantaria Motorizado Escola.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 364102,
+numeroUasg: 364102#,
 numero: 9,
 nomeUasg: CNPQ - ADMINISTRACAO CENTRAL,
 objetoCompra: Aquisição de bebedouros industriais de bancada e piso, com o objetivo de atender às necessidades deste Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq, conforme condições e exigências estabelecidas no Termo de Referência,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 925218,
-numero: 9,
-nomeUasg: PMSP - COORDENAÇÃO DE VIGILÂNCIA EM SAÚDE,
-objetoCompra: A VISTORIA É INDISPENSÁVEL OBJETO: Manutenção corretiva de ar condicionado marca TRANE conforme TERMO DE REFERÊNCIA.******HAVENDO DIVERGÊNCIA ENTRE O QUE ESTA DESCRITO TERMO DE REFERÊNCIA DO OBJETO PERMANECE VÁLIDO AS INFORMAÇÕES INSERIDAS NO TERMO DE REFERÊNCIA*******,
+
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 160298,
 numero: 10,
 nomeUasg: COMANDO DA 1 REGIAO MILITAR/RJ,
 objetoCompra: Atendimento à requisição nº 10 Almox/Cmdo 1ª RM, datada de 14 de março de 2023, cuja finalidade é atender as necessidades das Seções do Comando da 1ª Região Militar.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 925062,
-numero: 10,
-nomeUasg: PMSP - SECRETARIA DE DIR. HUMANOS E CIDADANIA,
-objetoCompra: Aquisição por dispensa de licitação de MATERIAL DE LIMPEZA para atender as necessidades da Casa da Mulher Brasileira desta Secretaria Municipal de Direitos Humanos e Cidadania. Solicitamos que para a formação da proposta de preço e o registro no sistema, o Licitante baseie-se EXCLUSIVAMENTE nas informações nas ESPECIFICAÇÕES TÉCNICAS DO OBJETO e demais condições contidas no ANEXO I – Termo de Referência.  O critério de julgamento adotado será o menor preço total do lote.,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 926665,
 numero: 10,
@@ -278,7 +206,7 @@ numero: 11,
 nomeUasg: 2 BATALHAO LOGISTICO,
 objetoCompra: O Presente processo visa adquirir maquina de lavar roupa.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 783701,
+numeroUasg: 783701#,
 numero: 11,
 nomeUasg: HOSPITAL NAVAL DE NATAL,
 objetoCompra: O objeto da presente dispensa é a escolha da proposta mais vantajosa para a aquisição por dispensa de licitação de material para Seção de Telefonia, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos.,
@@ -293,17 +221,12 @@ numero: 13,
 nomeUasg: 20 GRUPO DE ARTILHARIA DE CAMPANHA,
 objetoCompra: Aquisição de Gêneros de Alimentação ,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 791191,
-numero: 13,
-nomeUasg: POLICLINICA NAVAL DE SAO PEDRO D´ALDEIA,
-objetoCompra: Contratação por dispensa de licitação de serviço, com fornecimento de material, para manutenção preventiva e  corretiva de uma ambulância da Policlínica Naval de São Pedro da Aldeia.,
------------------------------------------------------------------------------------------------------------
 numeroUasg: 925070,
 numero: 13,
 nomeUasg: PMSP - SUBPREFEITURA CIDADE ADEMAR,
 objetoCompra: Aquisição de Sarrafos e Tábua de Pinus Bruto. Caso haja divergência entre a descrição do Item e do Objeto, considerar o Objeto e Termo e Referência,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 927956,
+numeroUasg: 927956#,
 numero: 13,
 nomeUasg: FUNDO MUNICIPAL DE SAUDE DE VALENCA_RJ,
 objetoCompra: Aquisição de caixas termicas destinadas a atender a Vigilância em Saúde,
@@ -313,42 +236,17 @@ numero: 14,
 nomeUasg: INSTIT.NAC.DE PESQ.ESPACIAIS-S.J.CAMPOS - MCT,
 objetoCompra: Componentes eletrônicos,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 791609,
-numero: 14,
-nomeUasg: PORTA HELICOPTEROS MULTIPROPóSITO´ATLâNTICO´,
-objetoCompra: Garrafas de polietileno de alta densidade.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 240106,
-numero: 15,
-nomeUasg: INSTIT.NAC.DE PESQ.ESPACIAIS-S.J.CAMPOS - MCT,
-objetoCompra: Copo descartável poliestireno 180 ml aplicação água/suco  pacote com 100 un.,
------------------------------------------------------------------------------------------------------------
 numeroUasg: 925210,
 numero: 15,
 nomeUasg: PMSP - COORD. REGIONAL DE SAÚDE CENTRO-OESTE,
 objetoCompra: Tinta ANTIADERENTE INCOLOR - CONTRA QUEDA,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 929747,
-numero: 15,
-nomeUasg: SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SANTO ANDRÉ,
-objetoCompra: PRESTAÇÃO DE SERVIÇOS DE ENCADERNAÇÃO EM CAPA DURA DE LIVROS DE REGISTRO DE ÓBITO E CONTÁBEIS. **HAVENDO DIVERGÊNCIA ENTRE O QUE ESTÁ DESCRITO CATMAT E NO TERMO DE REFERÊNCIA DO OBJETO, PERMANECE VÁLIDO AS INFORMAÇÕES INSERIDAS NO TERMO DE REFERÊNCIA**, Dúvidas favor entrar em contato com o e-mail: compras@sfmsa.sp.gov.br C/C  licitacoes@sfmsa.sp.gov.br ou telefone (11)4433-3546,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 160143,
-numero: 16,
-nomeUasg: HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE,
-objetoCompra: Aquisição de Material (Chopper Nagahara)Chopper Nagahara 2,0 mm, em aço inoxidável,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 925210,
-numero: 16,
-nomeUasg: PMSP - COORD. REGIONAL DE SAÚDE CENTRO-OESTE,
-objetoCompra: Material de escritorio,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 929747,
 numero: 16,
 nomeUasg: SERVIÇO FUNERÁRIO DO MUNICÍPIO DE SANTO ANDRÉ,
 objetoCompra: DECK DE MADEIRA RIPADO CUMARU MESCLADO - 220 metros lineares **HAVENDO DIVERGÊNCIA ENTRE O QUE ESTÁ DESCRITO CATMAT E NO TERMO DE REFERÊNCIA DO OBJETO, PERMANECE VÁLIDO AS INFORMAÇÕES INSERIDAS NO TERMO DE REFERÊNCIA**, dúvidas favor entrar em contato com o e-mail: compras@sfmsa.sp.gov.br C/C  licitacoes@sfmsa.sp.gov.br ou telefone 11 – 4433-3546,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 740014,
+numeroUasg: 740014#
 numero: 17,
 nomeUasg: CENTRO LOGISTICO DO MATERIAL DA MARINHA,
 objetoCompra: Dispensa de licitação, de 02 (dois) bebedouros para as copas do 15° e 16° andares da DOCM.,
@@ -362,16 +260,6 @@ numeroUasg: 925054,
 numero: 18,
 nomeUasg: PMSP - SECRETARIA MUNICIPAL DE CULTURA/SP,
 objetoCompra: Aquisição de materiais para pintura, de forma a atender as necessidades da Biblioteca Mário de Andrade (BMA). SE ATENTAR AO ARQUIVO ANEXADO, POIS AS DESCRIÇÕES E ESPECIFICAÇÕES DOS ITENS SE ENCONTRAM NO TERMO DE REFERÊNCIA. A PROPOSTA VENCEDORA DEVE ATENDER AS ESPECIFICAÇÕES DO TERMO DE REFERÊNCIA.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 90022,
-numero: 19,
-nomeUasg: JUSTICA FEDERAL DE 1A. INSTANCIA/GO,
-objetoCompra: Aquisição de, MATERIAL PERMANENTE, BEBEDOUROS DE COLUNA PARA GARRAFÕES DE 20 LITROS, para serem utilizados nesta seccional e nas Subseções vinculadas, de acordo com o Termo de Referência que é de leitura obrigatória e que pode ser encontrado no site JFGO no site https://sistemas.trf1.jus.br/licitacoes/index.php  ou poderá ser solicitado pelo  e-mail: selit.go@trf1.jus.br  ,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 112408,
-numero: 19,
-nomeUasg: HOSPITAL DAS FORCAS ARMADAS,
-objetoCompra: MACROGOL, PRINCÍPIO ATIVO: MACROGOL 3350, COMPOSIÇÃO: BICARBONATO DE SÓDIO, CLORETOS DE SÓDIO E POTÁSSIO, CONCENTRAÇÃO: 13,125 G + 177,5 MG + 46,6 mG + 350,7 MG, FORMA FARMACÊUTICA: PÓ PARA PREPARAÇÃO EXTEMPORÂNEA C/ 14G,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 160480,
 numero: 19,
@@ -388,30 +276,10 @@ numero: 21,
 nomeUasg: TRIBUNAL REGIONAL DO TRABALHO-24.REG./MS,
 objetoCompra: O objeto da presente operação consiste na Locação de Equipamentos de Iluminação (Canhão de Luz) para disponibilização no mês de abril, no prédio sede do Fórum Trabalhista de Campo Grande, por dispensa de licitação, conforme as especificações e condições deste Projeto Básico (PB) e seus anexos, nos termos da Lei nº 14.133/2021. ATENÇÃO: OBSERVAR ESPECIFICAÇÕES DO PROJETO BÁSICO.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 791190,
-numero: 22,
-nomeUasg: CENTRO DE INSTRUCAO E ADESTRAMENTO AERONAVAL,
-objetoCompra: Aquisição de material elétrico para instalação de ar condicionado.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 925153,
+numeroUasg: 925153#
 numero: 22,
 nomeUasg: MINISTERIO PUBLICO DO EST. DO RIO DE JANEIRO,
 objetoCompra: Aquisição de 01 (uma) escada de e Marinheiro com saída de piscina e guarda corpo, revestida com resina de  poliéster, degraus com revestimento antiderrapante, com as seguintes medidas:Altura Piso a Piso – 7500 / Altura saída da piscina - 1100 / Corrimão da saída da piscina - 200 / Distância entre a escada e a parede - 150. Marca de Referência igual ou superior: Marca cogumelo modelo PM-CSCG); cor amarela. Conforme condições, exigências do Aviso de Dispensa e TR e Anexos.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 153165,
-numero: 25,
-nomeUasg: UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO,
-objetoCompra: O objeto da presente dispensa é a escolha da proposta mais vantajosa para a aquisição, por dispensa de licitação, de farelo de soja o qual será utilizado como ingrediente para realizar a fabricação de rações para alimentar os animais do setor de suinocultura da Unidade Acadêmica de Serra Talhada, conforme condições, quantidades e exigências estabelecidas no Aviso de Contratação Direta e seus anexos.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 791609,
-numero: 25,
-nomeUasg: PORTA HELICOPTEROS MULTIPROPóSITO´ATLâNTICO´,
-objetoCompra: Serviço de análise das propriedades físico-químicas de misturas de combustível ODM com QAv,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 90002,
-numero: 26,
-nomeUasg: JUSTICA FEDERAL DE 1A. INSTANCIA/AM,
-objetoCompra: Contratação de empresa especializada na prestação de serviços de manutenção corretiva sob demanda, com fornecimento de peças, componentes e outros materiais pertinentes, necessários para o perfeito funcionamento do sistema hidráulico e acionadores dos sanitários, além da aquisição de 3 (três) mictórios com instalação nos banheiros da sede da SJAM. Havendo divergências no Sistema, prevalecem as informações do Termo de Referência.,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 153161,
 numero: 26,
@@ -423,25 +291,10 @@ numero: 26,
 nomeUasg: COMANDO DO 5.DISTRITO NAVAL/RS,
 objetoCompra: O objeto da presente dispensa é a escolha da proposta mais vantajosa para  aquisição de gêneros para o rancho do Com5°DN,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 160423,
-numero: 27,
-nomeUasg: HOSPITAL DE GUARNICAO DE SANTIAGO/RS,
-objetoCompra: Aquisição de material para manutenção de bens imóveis/instalações.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 721000,
-numero: 27,
-nomeUasg: ESCOLA DE GUERRA NAVAL,
-objetoCompra: Contratação de empresa especializada para prestação de serviços de manutenção preventiva e corretiva e suporte técnico para Central Telefônica AASTRA, modelo MD 110 (versão BC-9), incluindo fornecimento e substituição de peças que venham a ser avariadas e prejudiquem o funcionamento normal do sistema telefônico que se encontra instalado na Escola de Guerra Naval, Marinha do Brasil, Avenida Pasteur, 480, Urca, Rio de Janeiro, RJ, conforme condições, quantidades e exigências esta,
------------------------------------------------------------------------------------------------------------
 numeroUasg: 785000,
 numero: 28,
 nomeUasg: COMANDO DO 5.DISTRITO NAVAL/RS,
 objetoCompra: O objeto da presente dispensa é a escolha da proposta mais vantajosa para  aquisição de material de construção para o Com5°DN,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 984287,
-numero: 29,
-nomeUasg: PREFEITURA MUNICIPAL DE CARMO DO RIO CLARO,
-objetoCompra: Aquisição de Refeições Tipo Marmitex,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 791609,
 numero: 30,
@@ -453,22 +306,17 @@ numero: 31,
 nomeUasg: ODONTOCLINICA CENTRAL,
 objetoCompra: Aquisição de desentupidor elétrico turbo / acessórios – componentes, tipo: desentupidor elétrico, voltagem: ~127V; tipo motor: monofásico; potência mínima: 700W; acessórios: Capacidade de desobstrução mínima (diâmetro do tubo): 3/4\ - 19,0 mm | Capacidade de desobstrução máxima (diâmetro do tubo): 4\ - 101 mm.  Os fornecedores interessados deverão observar o termo de referência. ,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 791609,
+numeroUasg: 791609#,
 numero: 32,
 nomeUasg: PORTA HELICOPTEROS MULTIPROPóSITO´ATLâNTICO´,
 objetoCompra: Aquisição de manômetros para o monitoramento dos motores diesel de geração de energia.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 153164,
-numero: 33,
-nomeUasg: UNIVERSIDADE FEDERAL DE STA.MARIA/RS,
-objetoCompra: Contratação de serviços de tratamento, limpeza e vedação das juntas de dilatação, forros e cobertura do prédio 47 – Reitoria, campus sede da UFSM.,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 158124,
 numero: 33,
 nomeUasg: INST.FED.DE EDUC., CIENCIA E TEC. GOIANO,
 objetoCompra: Aquisição de material (uso duradouro) para o Núcleo de Atenção à Saúde (NAS),
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 791000,
+numeroUasg: 791000#,
 numero: 34,
 nomeUasg: COMANDO-EM-CHEFE DA ESQUADRA,
 objetoCompra: O objeto da presente dispensa é a escolha da proposta mais vantajosa para aquisição material de informática, SSD 240GB, para o Comando da Segunda Divisão da Esquadra, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e o Termo de Referência em Anexo.,
@@ -478,28 +326,13 @@ numero: 34,
 nomeUasg: BASE DE FUZILEIROS NAVAIS DA ILHA DAS FLORES,
 objetoCompra: Aquisição de tinta concreto piso 18 litros, redutor(it-16) 5 litros, estopa de 400g, fita crepe 24mmx40m e massa corrida 25kg para pintura do pórtico da entrada do complexo naval da ilha das flores (CNIF), conforme condições e exigências estabelecidas no Termo de Referência.,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 984287,
-numero: 34,
-nomeUasg: PREFEITURA MUNICIPAL DE CARMO DO RIO CLARO,
-objetoCompra: Aquisição de Anestésicos para Consumo nas Unidades de Atendimento Odontológico do Município,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 795380,
+numeroUasg: 795380#,
 numero: 38,
 nomeUasg: BASE DE FUZILEIROS NAVAIS DA ILHA DAS FLORES,
 objetoCompra: Aquisição de facas de mesa para churrasco,
 -----------------------------------------------------------------------------------------------------------
-numeroUasg: 160523,
-numero: 39,
-nomeUasg: CENTRO DE PREP. DE OFICIAIS DA RESERVA DE BH,
-objetoCompra: Aquisição de serviço  para atender as necessidades do CPOR/CM-BH. ,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 153052,
-numero: 42,
-nomeUasg: UNIVERSIDADE FEDERAL DE GOIAS-UF/GO,
-objetoCompra: Contratação de CERTIFICADO, DIGITAL, E-CNPJ, TIPO A3, COM MÍDIA (TOKEN).,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 986001,
-numero: 42,
+numeroUasg: 986001#
+numero: 42
 nomeUasg: PREF.MUN.DO RIO DE JANEIRO/RJ,
 objetoCompra: Aquisição de material médico cirúrgico, sem Ata de registro de preço vigente, em caráter emergencial para abastecimento dos setores do HMLJ E MLD.,
 -----------------------------------------------------------------------------------------------------------
@@ -517,11 +350,6 @@ numeroUasg: 925003,
 numero: 52,
 nomeUasg: PMSP - SECRETARIA MUNICIPAL DE SAÚDE,
 objetoCompra: CONTRATAÇÃO DE UMA EMPRESA PRESTADORA DE SERVIÇOS DE MANUTENÇÃO, COM FORNECIMENTO DE PEÇAS, PARA MANUTENÇÃO, CALIBRAÇÃO E TESTE DE SEGURANÇA ELÉTRICO EM 02 ELETROCARDIOGRAFOS DA MARCA BIONET, PERTENCENTE AO HOSPITAL MUNICIPAL DR.ARTHUR RIBEIRO DE SABOYA, VINCULADO Á SECRETARIA EXECUTIVA DE ATENÇÃO HOSPITALAR,  *** conforme termo de referência *** . ESPECIFICAR A MARCA DO PRODUTO. O VALOR OFERTADO DEVE SER O TOTAL DOS ITENS, NUNCA O VALOR UNITÁRIO.,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 240120,
-numero: 64,
-nomeUasg: CENTRO BRASILEIRO DE PESQUISAS FISICAS,
-objetoCompra: Item 1 - Mesa redonda pérola com caramelo (53cm de altura x 50cm de largura) - 1 unidade  Item 2 - Microondas 30L 127W - 1 unidade  Item 3 - Forno Elétrico 46L 1500W - 1 unidade,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 155915,
 numero: 104,
@@ -572,11 +400,6 @@ numeroUasg: 791010,
 numero: 206,
 nomeUasg: CENTRO DE INTENDENCIA DA MARINHA NITEROI,
 objetoCompra: Aquisição de Filme Drystar Digital.    OBS: Atentar para a descrição detalhada no Termo de Referência.  ,
------------------------------------------------------------------------------------------------------------
-numeroUasg: 135026,
-numero: 1009,
-nomeUasg: EMBRAPA INSTRUMENTAÇÃO/SÃO CARLOS/SP,
-objetoCompra: Contratação de serviços técnicos especializados para desinsetização, dedetização, desratização e desalojamento de pombos  nas instalações da Embrapa Instrumentação e do Laboratório Nacional de Referência em Agricultura de Precisão – LANAPRE , com fornecimento de mão de obra e todo material necessário. ,
 -----------------------------------------------------------------------------------------------------------
 numeroUasg: 785332,
 numero: 8039,
